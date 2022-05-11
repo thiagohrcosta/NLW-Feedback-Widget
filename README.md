@@ -6,8 +6,8 @@
 
 Project developed during Next Level Week #8 produced by Rocketseat. In this end-to-end project, three applications are provided. The first is the web version accessed by the computer and developed in React. The second is the server developed using NodeJS and finally, the last application was developed with React Native.
 
-Web Repository: https://github.com/thiagohrcosta/NLW-Feedback-Widget
-Server Repository: https://github.com/thiagohrcosta/NLW-Feedback-Widget-server
+Web Repository: https://github.com/thiagohrcosta/NLW-Feedback-Widget <br>
+Server Repository: https://github.com/thiagohrcosta/NLW-Feedback-Widget-server <br>
 React Native Repository: https://github.com/thiagohrcosta/NLW-Feedback-Widget-mobile
 
 Together, the application provide to the user a complete feedback plataform that can be integrated into any application on the market.
